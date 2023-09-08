@@ -1,4 +1,5 @@
 import unittest
+#une fct d'addition
 def add(a, b):
     return a + b
 class Testaddfunction(unittest.TestCase):
